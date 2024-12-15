@@ -22,6 +22,7 @@ const NoteScreen = ({ route }: Props) => {
 
   return (
     <View style={styles.container}>
+      
       <TextInput
         style={styles.input}
         placeholder="Write your note here..."
